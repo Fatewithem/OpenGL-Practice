@@ -43,13 +43,13 @@
 ---
 
 ## 📂 项目结构
-application/   # 程序入口与主循环
-assets/        # Shaders / Textures / Models / Skybox
-camera/        # 相机与控制逻辑
-core/          # 渲染核心封装（Shader/Texture/Geometry）
-particle/      # 粒子系统实现
-renderer/      # GBuffer / SSAO / Lighting / Post-Processing
-scene/         # 场景构建与动画逻辑
-utils/         # 数学工具、随机数、通用方法
-main.cpp       # 程序入口
-CMakeLists.txt
+- application/   # 程序入口与主循环
+- assets/        # Shaders / Textures / Models / Skybox
+- camera/        # 相机与控制逻辑
+- core/          # 渲染核心封装（Shader/Texture/Geometry）
+- particle/      # 粒子系统实现
+- renderer/      # GBuffer / SSAO / Lighting / Post-Processing
+- scene/         # 场景构建与动画逻辑
+- utils/         # 数学工具、随机数、通用方法
+- main.cpp       # 程序入口
+- CMakeLists.txt
