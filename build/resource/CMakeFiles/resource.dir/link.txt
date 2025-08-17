@@ -1,0 +1,2 @@
+/usr/bin/ar qc libresource.a CMakeFiles/resource.dir/mesh.cpp.o CMakeFiles/resource.dir/model.cpp.o
+/usr/bin/ranlib libresource.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libanimation.a CMakeFiles/animation.dir/trajectory.cpp.o
+/usr/bin/ranlib libanimation.a

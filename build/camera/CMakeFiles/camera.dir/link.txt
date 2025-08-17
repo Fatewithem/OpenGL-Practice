@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcamera.a CMakeFiles/camera.dir/camera.cpp.o CMakeFiles/camera.dir/cameraControl.cpp.o CMakeFiles/camera.dir/gameCameraControl.cpp.o CMakeFiles/camera.dir/orthographicCamera.cpp.o CMakeFiles/camera.dir/perspectiveCamera.cpp.o CMakeFiles/camera.dir/trackBallCameraControl.cpp.o
+/usr/bin/ranlib libcamera.a

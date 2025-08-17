@@ -1,0 +1,2 @@
+/usr/bin/ar qc librenderer.a CMakeFiles/renderer.dir/environment/skybox/skybox.cpp.o
+/usr/bin/ranlib librenderer.a

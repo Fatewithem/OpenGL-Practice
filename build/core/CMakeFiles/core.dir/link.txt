@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore.a CMakeFiles/core.dir/geometry.cpp.o CMakeFiles/core.dir/shader.cpp.o CMakeFiles/core.dir/texture.cpp.o
+/usr/bin/ranlib libcore.a

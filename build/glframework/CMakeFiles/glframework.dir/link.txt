@@ -1,0 +1,2 @@
+/usr/bin/ar qc libglframework.a CMakeFiles/glframework.dir/geometry.cpp.o CMakeFiles/glframework.dir/mesh.cpp.o CMakeFiles/glframework.dir/model.cpp.o CMakeFiles/glframework.dir/shader.cpp.o CMakeFiles/glframework.dir/skybox.cpp.o CMakeFiles/glframework.dir/texture.cpp.o
+/usr/bin/ranlib libglframework.a

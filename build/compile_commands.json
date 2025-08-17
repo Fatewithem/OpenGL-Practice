@@ -1,0 +1,134 @@
+[
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build",
+  "command": "/usr/bin/clang  -I/Users/wuchengyu/Downloads/Code/OpenGL/wrapper -I/Users/wuchengyu/Downloads/Code/OpenGL/application -I/Users/wuchengyu/Downloads/Code/OpenGL/camera -I/Users/wuchengyu/Downloads/Code/OpenGL/core -I/Users/wuchengyu/Downloads/Code/OpenGL/resource -I/Users/wuchengyu/Downloads/Code/OpenGL/scene -I/Users/wuchengyu/Downloads/Code/OpenGL/renderer -I/Users/wuchengyu/Downloads/Code/OpenGL/input -I/Users/wuchengyu/Downloads/Code/OpenGL/particle -I/Users/wuchengyu/Downloads/Code/OpenGL/animation -I/Users/wuchengyu/Downloads/Code/OpenGL/text -I/Users/wuchengyu/Downloads/Code/OpenGL/thirdParty/include -I/Users/wuchengyu/Downloads/Code/OpenGL/thirdParty/include/assimp/include -I/opt/homebrew/include/freetype2 -I/opt/homebrew/include -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -g -arch arm64 -o CMakeFiles/glad.dir/glad/src/glad.c.o -c /Users/wuchengyu/Downloads/Code/OpenGL/glad/src/glad.c",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/glad/src/glad.c.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/wrapper -I/Users/wuchengyu/Downloads/Code/OpenGL/application -I/Users/wuchengyu/Downloads/Code/OpenGL/camera -I/Users/wuchengyu/Downloads/Code/OpenGL/core -I/Users/wuchengyu/Downloads/Code/OpenGL/resource -I/Users/wuchengyu/Downloads/Code/OpenGL/scene -I/Users/wuchengyu/Downloads/Code/OpenGL/renderer -I/Users/wuchengyu/Downloads/Code/OpenGL/input -I/Users/wuchengyu/Downloads/Code/OpenGL/particle -I/Users/wuchengyu/Downloads/Code/OpenGL/animation -I/Users/wuchengyu/Downloads/Code/OpenGL/text -I/Users/wuchengyu/Downloads/Code/OpenGL/thirdParty/include -I/Users/wuchengyu/Downloads/Code/OpenGL/thirdParty/include/assimp/include -I/opt/homebrew/include/freetype2 -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -o CMakeFiles/OpenGLDemo.dir/main.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/main.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/main.cpp",
+  "output": "CMakeFiles/OpenGLDemo.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/wrapper",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/wrapper.dir/cheackerror.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/wrapper/cheackerror.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/wrapper/cheackerror.cpp",
+  "output": "wrapper/CMakeFiles/wrapper.dir/cheackerror.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/application",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/application.dir/Application.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/application/Application.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/application/Application.cpp",
+  "output": "application/CMakeFiles/application.dir/Application.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/camera",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/camera.dir/camera.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/camera/camera.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/camera/camera.cpp",
+  "output": "camera/CMakeFiles/camera.dir/camera.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/camera",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/camera.dir/cameraControl.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/camera/cameraControl.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/camera/cameraControl.cpp",
+  "output": "camera/CMakeFiles/camera.dir/cameraControl.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/camera",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/camera.dir/gameCameraControl.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/camera/gameCameraControl.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/camera/gameCameraControl.cpp",
+  "output": "camera/CMakeFiles/camera.dir/gameCameraControl.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/camera",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/camera.dir/orthographicCamera.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/camera/orthographicCamera.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/camera/orthographicCamera.cpp",
+  "output": "camera/CMakeFiles/camera.dir/orthographicCamera.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/camera",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/camera.dir/perspectiveCamera.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/camera/perspectiveCamera.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/camera/perspectiveCamera.cpp",
+  "output": "camera/CMakeFiles/camera.dir/perspectiveCamera.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/camera",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/camera.dir/trackBallCameraControl.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/camera/trackBallCameraControl.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/camera/trackBallCameraControl.cpp",
+  "output": "camera/CMakeFiles/camera.dir/trackBallCameraControl.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/core",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/core -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/core.dir/geometry.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/core/geometry.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/core/geometry.cpp",
+  "output": "core/CMakeFiles/core.dir/geometry.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/core",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/core -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/core.dir/shader.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/core/shader.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/core/shader.cpp",
+  "output": "core/CMakeFiles/core.dir/shader.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/core",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/core -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/core.dir/texture.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/core/texture.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/core/texture.cpp",
+  "output": "core/CMakeFiles/core.dir/texture.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/resource",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/resource -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/resource.dir/mesh.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/resource/mesh.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/resource/mesh.cpp",
+  "output": "resource/CMakeFiles/resource.dir/mesh.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/resource",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/resource -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/resource.dir/model.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/resource/model.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/resource/model.cpp",
+  "output": "resource/CMakeFiles/resource.dir/model.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/scene",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/freetype2 -I/Users/wuchengyu/Downloads/Code/OpenGL/scene -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/scene.dir/scene.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/scene/scene.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/scene/scene.cpp",
+  "output": "scene/CMakeFiles/scene.dir/scene.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/renderer",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/renderer -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/renderer.dir/environment/skybox/skybox.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/renderer/environment/skybox/skybox.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/renderer/environment/skybox/skybox.cpp",
+  "output": "renderer/CMakeFiles/renderer.dir/environment/skybox/skybox.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/input",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/input -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -I/opt/homebrew/include/freetype2 -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/input.dir/input.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/input/input.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/input/input.cpp",
+  "output": "input/CMakeFiles/input.dir/input.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/particle",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/particle -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/particle.dir/particle.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/particle/particle.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/particle/particle.cpp",
+  "output": "particle/CMakeFiles/particle.dir/particle.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/particle",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/particle -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/particle.dir/particleSystem.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/particle/particleSystem.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/particle/particleSystem.cpp",
+  "output": "particle/CMakeFiles/particle.dir/particleSystem.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/animation",
+  "command": "/usr/bin/clang++  -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/animation.dir/trajectory.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/animation/trajectory.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/animation/trajectory.cpp",
+  "output": "animation/CMakeFiles/animation.dir/trajectory.cpp.o"
+},
+{
+  "directory": "/Users/wuchengyu/Downloads/Code/OpenGL/build/text",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/freetype2 -I/Users/wuchengyu/Downloads/Code/OpenGL/text -I/Users/wuchengyu/Downloads/Code/OpenGL/glad/include -I/opt/homebrew/opt/glfw/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/text.dir/textrenderer.cpp.o -c /Users/wuchengyu/Downloads/Code/OpenGL/text/textrenderer.cpp",
+  "file": "/Users/wuchengyu/Downloads/Code/OpenGL/text/textrenderer.cpp",
+  "output": "text/CMakeFiles/text.dir/textrenderer.cpp.o"
+}
+]

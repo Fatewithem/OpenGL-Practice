@@ -1,0 +1,18 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/wrapper/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/application/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/camera/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/core/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/resource/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/scene/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/renderer/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/input/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/particle/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/animation/cmake_install.cmake",
+		"/Users/wuchengyu/Downloads/Code/OpenGL/build/text/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
