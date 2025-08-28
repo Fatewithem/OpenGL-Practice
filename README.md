@@ -1,6 +1,6 @@
 # OpenGL Rendering Demo
 
-本项目是一个 **基于 C++/OpenGL 的轻量级实时渲染框架**，实现了现代图形引擎常见的渲染管线与特效，用于学习、演示与技术展示。  
+本项目是一个 **基于 C++/OpenGL 的轻量级实时渲染框架**，实现了现代图形引擎常见的渲染管线与特效。  
 采用了 **延迟渲染（Deferred）与前向渲染（Forward）相结合的混合架构**，在多光源下高效的不透明物体渲染，同时保证透明、粒子、发光对象等效果的正确性。
 
 <img src="demo.gif" alt="演示效果" width="720"/>
@@ -22,6 +22,7 @@
 - **Post-Processing**:  
   - **Bloom/Glow**（亮度提取 + 高斯模糊 + 合成）  
   - **HDR 渲染与色调映射（Tone Mapping）**
+  - **抗锯齿MXAA**
 
 ### 场景与特效
 - **程序化几何 – 行星带碎片**  
@@ -45,7 +46,7 @@
 
 ---
 
-## 📂 项目结构
+### 项目结构
 - application/   # 程序入口与主循环
 - assets/        # Shaders / Textures / Models / Skybox
 - camera/        # 相机与控制逻辑
